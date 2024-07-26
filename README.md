@@ -11,3 +11,4 @@
 
 ## 三使用方法：
 输入表达式，按下回车键即可输出。按下键盘上键将会将输出结果放到输入框，按下键盘下键清空输入框。
+![npm](https://img.shields.io/npm/dw/relationship.js)
