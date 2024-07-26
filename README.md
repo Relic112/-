@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc65aab4-4026-4b6d-b78a-30d76f145b58)
+![image](https://github.com/user-attachments/assets/594fc4d3-8e26-430a-b2f8-3334e725361a)
 
 ## 一、界面
 
